@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder</title>
+  <desc id="desc">Decorative placeholder block for portfolio headshot.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f8cff"/>
+      <stop offset="100%" stop-color="#8fb3ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" rx="36" fill="#0f172a"/>
+  <circle cx="400" cy="180" r="78" fill="url(#g)" opacity="0.95"/>
+  <path d="M250 405c30-77 88-118 150-118s120 41 150 118" fill="none" stroke="url(#g)" stroke-width="34" stroke-linecap="round"/>
+  <text x="400" y="485" font-size="28" font-family="Inter, Arial, sans-serif" fill="#cbd5e1" text-anchor="middle">Add Professional Headshot Here</text>
+</svg>
